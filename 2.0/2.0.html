@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Form Elements</title>
+</head>
+<body>
+
+   <form action="https://supercell.com/en/games/brawlstars/" method="get"> 
+
+    <fieldset>
+        <legend>User's data</legend>
+<label for="name">Name:</label>
+       <input type="text" name="name" required>
+
+
+       <label for="email">email:</label>
+       <input type="email" id="email" name="email" required>
+
+       <label for="password">password:</label>
+       <input type="password" id="password" name="password" required>
+    </fieldset>
+       
+
+   
+   <label for="message">Message:</label>
+       <textarea id="message" name="message" rows="4" cols="50"></textarea><br><br>
+    <button type="submit">Submit</button>
+    
+    <label for="country">Country:</label>
+       <select id="country" name="country" required>
+           <option value="">Select your country</option>
+           <option value="Rus">Russia</option>
+           <option value="Usa">Usa</option>
+           <option value="Canada">Canada</option>
+       </select>
+       <button type="submit">ok</button>
+       <h4><button type="reset">reset all</button></h4>
+
+    </form>
+</body>
+</html>
+<!--А как проверять правильный ли пароль-->
