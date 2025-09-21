@@ -1,0 +1,49 @@
+
+p {
+   color: blue;
+   font-size: 16px;
+}
+h1 {
+   color: rgb(94, 15, 131);
+   font-size: 40px;
+}
+   
+
+#myDiv {
+   background-color: rgb(14, 1, 3);
+   color: white;
+   text-align: center;
+}
+
+
+.container {
+   padding: 20px;
+   border: 1px solid black;
+}
+.title {
+   font-size: 26px;
+   text-align: left center;
+}
+.neon {
+  color: #ff00ff;
+  text-shadow: 
+    0 0 5px #ff00ff,
+    0 0 10px #ff00ff,
+    0 0 20px #ff00ff,
+    0 0 40px #ff00ff;
+}
+
+.Superpuper {
+    background-color: rgb(155, 155, 124);
+    color: black;
+    text-align: right;
+}
+
+#akjsdh {
+    background-color: orange;
+    color: orange;
+    text-align: left;
+
+}
+
+
