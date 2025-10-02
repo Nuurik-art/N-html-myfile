@@ -1,0 +1,49 @@
+body{
+    width: 100px;
+    height: 100px;
+}
+.p1{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+}
+.p2{
+    background-color: red;
+    height: 10em;
+    width: 10em;
+}
+.p3{
+    background-color: blue;
+    height: 50rem;
+    width: 50rem;
+}
+.p4{
+    background-color: green;
+    height: 150%;
+    width: 150%;
+
+
+
+}
+.p5{
+    background-color: rgb(69, 110, 69);
+    height: 150%;
+    width: 150%;
+}
+.p6{
+  
+    background-color: #538dc0;
+    height: 150%;
+    width: 150%;
+}
+.p7{
+    background-color: rgba(255, 105, 180, 0.5);
+    height: 150%;
+    width: 150%;
+}
+.p8{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    height: 150%;
+    width: 150%;
+}
